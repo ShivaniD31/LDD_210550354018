@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/Assig2/Q3/Q3.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/native/Assig2/Q3/Q3.ko /home/pi/device-drivers/native/Assig2/Q3/Q3.o /home/pi/device-drivers/native/Assig2/Q3/Q3.mod.o;  true
