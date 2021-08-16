@@ -1,2 +1,2 @@
-/home/pi/device-drivers/native/hello_module/hello.o
+/home/pi/device-drivers/native/Assig2/Q1_Hello/hello.o
 

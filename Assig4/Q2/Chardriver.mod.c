@@ -26,6 +26,17 @@ MODULE_INFO(retpoline, "Y");
 static const struct modversion_info ____versions[]
 __used __section("__versions") = {
 	{ 0xa11440c8, "module_layout" },
+	{ 0x7a39daf9, "cdev_del" },
+	{ 0x6091b333, "unregister_chrdev_region" },
+	{ 0x2686255, "cdev_add" },
+	{ 0xe2a5af47, "cdev_alloc" },
+	{ 0x3fd78f3b, "register_chrdev_region" },
+	{ 0xae353d77, "arm_copy_from_user" },
+	{ 0x86332725, "__stack_chk_fail" },
+	{ 0x51a910c0, "arm_copy_to_user" },
+	{ 0x2cfde9a2, "warn_slowpath_fmt" },
+	{ 0x5f754e5a, "memset" },
+	{ 0x8f678b07, "__stack_chk_guard" },
 	{ 0xc5850110, "printk" },
 	{ 0xb1ad28e0, "__gnu_mcount_nc" },
 };
@@ -33,4 +44,4 @@ __used __section("__versions") = {
 MODULE_INFO(depends, "");
 
 
-MODULE_INFO(srcversion, "345FFB01A5DBCAEAE02D9D6");
+MODULE_INFO(srcversion, "828B97F2768B3C40A08501F");

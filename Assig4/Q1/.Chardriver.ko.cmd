@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/Assig4/Q1/Chardriver.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/native/Assig4/Q1/Chardriver.ko /home/pi/device-drivers/native/Assig4/Q1/Chardriver.o /home/pi/device-drivers/native/Assig4/Q1/Chardriver.mod.o;  true

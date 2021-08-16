@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/Assig4/Q3/modules.order := {   echo /home/pi/device-drivers/native/Assig4/Q3/Chardriver.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/native/Assig4/Q3/modules.order

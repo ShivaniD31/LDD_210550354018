@@ -1,1 +1,1 @@
-cmd_/home/pi/device-drivers/native/hello_module/modules.order := {   echo /home/pi/device-drivers/native/hello_module/hello.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/native/hello_module/modules.order
+cmd_/home/pi/device-drivers/native/Assig2/Q1_Hello/modules.order := {   echo /home/pi/device-drivers/native/Assig2/Q1_Hello/hello.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/native/Assig2/Q1_Hello/modules.order
